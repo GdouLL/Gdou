@@ -1,3 +1,7 @@
+/*
+        时间：2022/7/3
+        作者：Gdou
+                        */
 package day;
 
 import java.util.Random;
